@@ -137,11 +137,7 @@ nav .wrapper{
   right: 30px;
   top: 10px;
 }
-.offkey img{
-  cursor: pointer;
-  display: none;
-
-}
+ 
 
 @media screen and (max-width: 970px) {
   .wrapper .btn{
@@ -201,40 +197,9 @@ nav .wrapper{
       margin-top: 25px;
       max-width: 130px;
   }
-  .offkey img{
-      
-      width: 430px;
-      height: 320px;
-      display: block;
-      left: -10%;
-   filter: drop-shadow(1px 10px 15px rgba(250,113,33,0.925));
-      transform: translateY(-55px);
-  }
-  .offkey img{
-      position: absolute;
-       
-      cursor: pointer;
-      animation: UpDown 1s linear infinite;
-      position: absolute;
-       
-      font-size: 4em;
-        cursor: pointer;
-        color: #715c3f;
-     
-
-  }
+   
  
-  @keyframes UpDown {
-      0% {
-        bottom: 0;
-      }
-      50% {
-        bottom: .5em;
-      }
-      100% {
-        bottom: 0;
-      }
-    }
+ 
 
 
   .mobile-item{
