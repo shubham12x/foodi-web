@@ -149,6 +149,9 @@ nav .wrapper{
     display: block;
     
   }
+  .body{
+    overflow-x: hidden;
+  }
   .wrapper .nav-links{
     position: fixed;
     height: 100vh;
