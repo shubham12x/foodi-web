@@ -499,6 +499,18 @@ nav input{
 
 
 
+
+
+
+@media (max-width: 938px) {
+  .body{
+  word-wrap: break-word;
+  
+  }
+}
+
+
+
  
 
  
